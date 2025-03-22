@@ -726,7 +726,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Mandika Group of Companies
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Feature is ending with Mandika. '
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

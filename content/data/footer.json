@@ -38,25 +38,7 @@
     },
     "secondaryLinks": {
         "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
@@ -103,7 +85,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Powered by [Mandika Group](https://www.mandikagroup.com/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
